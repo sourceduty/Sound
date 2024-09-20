@@ -39,7 +39,7 @@ When heat and sound interact in the atmosphere, unique effects can occur. For ex
 <br>
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
-[Music Mizology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+[Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
