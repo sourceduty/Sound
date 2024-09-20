@@ -49,6 +49,8 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+<br>
+[White Noise](https://github.com/sourceduty/White_Noise)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
