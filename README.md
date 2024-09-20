@@ -33,7 +33,7 @@ Heat, on the other hand, is the transfer of thermal energy between substances or
 When heat and sound interact in the atmosphere, unique effects can occur. For example, the image illustrates how an inversion layer can cause sound waves to reflect back towards the ground instead of dispersing upward. This is because sound waves bend when they move through layers of air at different temperatures, a process known as refraction. In an inversion, the cooler air near the ground and the warm air above create a gradient that bends sound waves downward. As a result, sound can travel farther than usual, leading to enhanced audibility of distant noises. This interplay between sound and heat is an example of how physical principles can influence our perception of the environment.
 
 #
-###
+### Synthetic Sounds
 
 ![Noise](https://github.com/user-attachments/assets/ef80c5b6-67fd-498d-997c-824b01608452)
 
