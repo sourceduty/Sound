@@ -64,6 +64,10 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 ![Sound Caves](https://github.com/user-attachments/assets/7ba7e2a6-5a9e-4041-842c-1c55dfd12414)
 
 #
+
+![Do You Do You](https://github.com/user-attachments/assets/8e0dddf8-3471-4466-9e73-ba11cfc87bf6)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
