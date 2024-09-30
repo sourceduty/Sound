@@ -1,4 +1,4 @@
-![121](https://github.com/user-attachments/assets/e75a6159-fe06-47fe-aa6f-4c479cacb087)
+![White People Dancing](https://github.com/user-attachments/assets/087ff6cb-ef8e-4d90-a7cd-ee26b8535239)
 
 > Sound design and acoustic research.
 
@@ -66,6 +66,10 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 #
 
 ![Do You Do You](https://github.com/user-attachments/assets/8e0dddf8-3471-4466-9e73-ba11cfc87bf6)
+
+#
+
+![121](https://github.com/user-attachments/assets/e75a6159-fe06-47fe-aa6f-4c479cacb087)
 
 #
 ### Related Links
