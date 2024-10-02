@@ -1,4 +1,4 @@
-![White People Dancing](https://github.com/user-attachments/assets/087ff6cb-ef8e-4d90-a7cd-ee26b8535239)
+![Bacon Noises](https://github.com/user-attachments/assets/013db41a-a09c-4468-9c31-7111847e5b90)
 
 > Sound design and acoustic research.
 
@@ -70,6 +70,10 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 #
 
 ![121](https://github.com/user-attachments/assets/e75a6159-fe06-47fe-aa6f-4c479cacb087)
+
+#
+
+![White People Dancing](https://github.com/user-attachments/assets/087ff6cb-ef8e-4d90-a7cd-ee26b8535239)
 
 #
 ### Related Links
