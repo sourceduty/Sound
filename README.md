@@ -27,7 +27,7 @@ Sean Paul - Get Busy (BasslandeR Remix)
 Grits - My Life Be Like (Ooh Ahh) (K. Solis Trap Remix) [Bass Boosted]
 Where Are You Now - Lost Frequencies ft Calum Scott (Boosted Remix)
 The White Stripes - Seven Nation Army (Evokings Remix)  Extended Remix
-Felix Jaehn & Ray Dalton - Call It Love (Official Video)
+Felix Jaehn & Ray Dalton - Call It Love
 Supermode - Tell Me Why (Walden Remix)
 TroyBoi - Do You?
 Sean Paul - We Be Burnin' (Amyntas Remix)
