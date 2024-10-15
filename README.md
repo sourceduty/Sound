@@ -20,6 +20,22 @@ Remixing is the art of taking an original song and reworking it by altering vari
 Tight bass remixes, specifically, are a popular subtype of remixes characterized by a strong, punchy bassline that drives the track's rhythm. These remixes emphasize low-frequency sounds to create an intense, immersive listening experience that resonates well in club settings or through high-quality sound systems. Tight bass remixes often transform lighter tracks into bass-heavy anthems by enhancing the beat, adding drops, and compressing the bass for a more powerful, compact sound. This style is particularly favored in genres like EDM, trap, and hip-hop, where the bass is a fundamental element that energizes the music and engages listeners on a visceral level. By focusing on deep, precise bass elements, tight bass remixes create a dynamic and impactful sound that elevates the original track's energy.
 
 #
+### Sourceduty Favorites
+
+```
+Sean Paul - Get Busy (BasslandeR Remix)
+Grits - My Life Be Like (Ooh Ahh) (K. Solis Trap Remix) [Bass Boosted]
+Where Are You Now - Lost Frequencies ft Calum Scott (Boosted Remix)
+The White Stripes - Seven Nation Army (Evokings Remix)  Extended Remix
+Felix Jaehn & Ray Dalton - Call It Love (Official Video)
+Supermode - Tell Me Why (Walden Remix)
+TroyBoi - Do You?
+Sean Paul - We Be Burnin' (Amyntas Remix)
+```
+
+This short playlist offers a powerful blend of songs that spans various genres, reimagined through fresh remixes. It kicks off with a trap-inspired track that pairs introspective lyrics with deep, bass-boosted beats, setting a moody yet energizing tone. A remix featuring a soulful vocal performance follows, combining uplifting lyrics with a driving electronic rhythm that pulls listeners in. The set also includes a reworked rock anthem, giving it a dynamic, extended beat that amplifies its iconic guitar riff, making it ideal for fans of reimagined classics. Another track brings a touch of tropical house, infused with positive vibes and catchy hooks, perfect for a feel-good moment. Further into the mix, an infectious dance track revives a beloved electronic hit, amping up the energy with vibrant beats. The playlist continues with a bold and rhythmic beat-driven song that delivers a steady flow, perfect for fans of unique electronic sounds. Finally, a dancehall-inspired remix adds a lively, reggae twist, blending fast-paced lyrics with an upbeat remix style that rounds out the diverse, energetic experience.
+
+#
 ### Sound Insulation
 
 ![Foam](https://github.com/user-attachments/assets/89afa381-4b79-43d8-accd-b15d87d6dcf0)
