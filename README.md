@@ -92,19 +92,12 @@ Synthetic noise engineering involves the deliberate creation and manipulation of
 In audio processing, synthetic noise engineering is utilized to mask unwanted sounds, enhance audio clarity, and test acoustic properties of materials and environments. White noise and pink noise are common examples used in audio testing to evaluate speaker performance or to mask background noise in open office environments. Additionally, in machine learning, synthetic noise is added to training data to improve the robustness and generalization of models. By exposing algorithms to varied and noisy inputs during training, engineers can develop systems that perform better in real-world scenarios where data is rarely perfect or predictable.
 
 #
-
 ![Sound Caves](https://github.com/user-attachments/assets/7ba7e2a6-5a9e-4041-842c-1c55dfd12414)
-
 #
-
 ![Do You Do You](https://github.com/user-attachments/assets/8e0dddf8-3471-4466-9e73-ba11cfc87bf6)
-
 #
-
 ![121](https://github.com/user-attachments/assets/e75a6159-fe06-47fe-aa6f-4c479cacb087)
-
 #
-
 ![White People Dancing](https://github.com/user-attachments/assets/087ff6cb-ef8e-4d90-a7cd-ee26b8535239)
 
 #
@@ -117,6 +110,8 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 <br>
 [White Noise](https://github.com/sourceduty/White_Noise)
+<br>
+[Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
