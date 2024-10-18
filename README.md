@@ -20,7 +20,7 @@ Remixing is the art of taking an original song and reworking it by altering vari
 Tight bass remixes, specifically, are a popular subtype of remixes characterized by a strong, punchy bassline that drives the track's rhythm. These remixes emphasize low-frequency sounds to create an intense, immersive listening experience that resonates well in club settings or through high-quality sound systems. Tight bass remixes often transform lighter tracks into bass-heavy anthems by enhancing the beat, adding drops, and compressing the bass for a more powerful, compact sound. This style is particularly favored in genres like EDM, trap, and hip-hop, where the bass is a fundamental element that energizes the music and engages listeners on a visceral level. By focusing on deep, precise bass elements, tight bass remixes create a dynamic and impactful sound that elevates the original track's energy.
 
 #
-### Deep Instrumental Beat Eveluation
+### Alex's Deep Instrumental Beat Eveluation
 
 ![Speakers](https://github.com/user-attachments/assets/9ff5251b-5f96-4013-8e98-b3c042ca37da)
 
@@ -29,6 +29,8 @@ Alex's Instrumental Beat clip has a duration of just over 1 minute (60.7 seconds
 Creatively, the beat delivers a deep, ambient feel, likely appealing to genres like hip-hop, lo-fi, or electronic. It has a solid groove and maintains a consistent, immersive atmosphere, making it suitable for background music in various multimedia settings. However, the beat could benefit from more variation or build-ups to add dynamic interest. Overall, this instrumental is well-produced and marketable for sync licensing or as a foundation for artists looking to add vocals.
 
 Rating: 7.5/10.
+
+[Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 
 #
 ### Old Sound Records
@@ -121,8 +123,6 @@ In audio processing, synthetic noise engineering is utilized to mask unwanted so
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 <br>
 [White Noise](https://github.com/sourceduty/White_Noise)
-<br>
-[Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
